@@ -32,17 +32,26 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
+![IMG-20251106-WA0071](https://github.com/user-attachments/assets/385a36fd-916e-4449-b8b8-676f8b602dd1)
 
-![WhatsApp Image 2025-11-06 at 13 29 04_8f89f784](https://github.com/user-attachments/assets/c16f90e3-4d6a-4313-8bf0-985a1b94c204)
-![WhatsApp Image 2025-11-06 at 13 29 16_bb51b21d](https://github.com/user-attachments/assets/642a04d5-3fef-453e-a7ed-302d16bbea9c)
-![WhatsApp Image 2025-11-06 at 13 29 29_0d325cd7](https://github.com/user-attachments/assets/bbaa3b22-11b1-4e8c-bf91-feb3806a1417)
-![WhatsApp Image 2025-11-06 at 13 29 35_28a96f45](https://github.com/user-attachments/assets/a3510397-1d24-42b1-ae40-5210cd2eca28)
+
+
+
+![IMG-20251106-WA0072](https://github.com/user-attachments/assets/b27cd891-6e49-4738-9d6f-a0459f6bcb83)
+
+
+![IMG-20251106-WA0073](https://github.com/user-attachments/assets/acd76cd3-188b-455e-b2b3-6470ffd7605c)
+
+
+![IMG-20251106-WA0074](https://github.com/user-attachments/assets/8ff76f2a-19b0-40f7-8a57-9fb4f4be1cf6)
+
+
 
 ## OUTPUT:
 
-<img width="1920" height="1200" alt="E5 - 1" src="https://github.com/user-attachments/assets/d37ec073-3f08-4abb-af3e-bcd5cc1519fc" />
+![WhatsApp Image 2025-11-06 at 19 50 31_d2bc2366](https://github.com/user-attachments/assets/2eaca362-3a6c-418f-8c40-432b728af991)
 
-<img width="1920" height="1200" alt="E5 - 2" src="https://github.com/user-attachments/assets/c54b59e9-cfc3-43c3-8d91-4f1fd8417f88" />
+![WhatsApp Image 2025-11-06 at 19 50 32_11e2c500](https://github.com/user-attachments/assets/ed91abd0-16f6-4c36-b9c0-03b21fb07a93)
 
 
 
